@@ -1,5 +1,3 @@
 {
-    "version": "1.0.1",
-    "update_url": "https://example.com/",
-    "changelog": "修复了已知问题，增强了性能。"
+    "version": "1"
 }
